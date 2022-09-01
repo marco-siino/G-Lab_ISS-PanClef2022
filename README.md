@@ -1,4 +1,4 @@
-# T100-PAN2022
+# STM-PAN2022
 This repo contains data and code for our submission to the PAN@CLEF2022 task on Irony and Stereotype Spreaders Detection. 
 For a detailed description of our model (stm), please see the paper "Improving Irony and Stereotype Spreaders Detection using Data Augmentation and Convolutional Neural Network" by S.Mangione et al.
 
